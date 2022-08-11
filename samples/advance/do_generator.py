@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-print('tes')
-s = (x * x for x in range(5))
+print('tedasss')
 print(s)
 for x in s:
     print(x)
