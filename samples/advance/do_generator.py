@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 print('tedasss')
-print(s)
-for x in s:
+print('d')
+for x in [123]:
     print(x)
 
 def fib(max):
